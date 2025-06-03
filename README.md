@@ -1,1 +1,1 @@
-# Blockchain-Rental-App
+# Blockchain Rental Application
